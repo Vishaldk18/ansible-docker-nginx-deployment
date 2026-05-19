@@ -17,9 +17,9 @@ This demonstrates Infrastructure as Code (IaC), configuration management, and De
 
 ---
 
-```
-## Architecture
 
+## Architecture
+```
 Developer Machine
         |
         v
