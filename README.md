@@ -17,6 +17,7 @@ This demonstrates Infrastructure as Code (IaC), configuration management, and De
 
 ---
 
+```
 ## Architecture
 
 Developer Machine
@@ -40,7 +41,7 @@ Developer Machine
         |
         v
  End Users
-
+```
 ---
 
 ## Features
