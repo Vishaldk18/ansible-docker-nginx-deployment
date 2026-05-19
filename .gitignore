@@ -1,1 +1,6 @@
 .vault_pass
+*.pem
+*.key
+*.log
+__pycache__/
+.env
